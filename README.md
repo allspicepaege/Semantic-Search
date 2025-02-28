@@ -20,7 +20,7 @@ https://...streamlit.app/...
 - **README.md** - файл описания проекта
 - **.gitignrore** - игнорируемые для загрузки файлы
 - **requirements.txt** - файл с зависимостями для установки окружения
-- 
+
 ## Команда
  - [Нанзат](https://github.com/nanzat)
  - [Илья](https://github.com/xefr762)
